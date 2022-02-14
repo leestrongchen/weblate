@@ -1,0 +1,20 @@
+﻿source,target
+CALL APART.,呼叫住户
+AUTO ON,视频监控
+CONCIERGE,呼叫管理机
+DIRECTORY,通讯录
+MODE,工作模式
+FORWARD,转移呼叫
+CALL LOG,通话记录
+ALARM LOG,报警记录
+MISSED CALL,有未接来电！
+"IP CONFLICT, MAC",IP地址冲突，MAC
+FUNCTION NOT ACTIVATED,该功能未启用！
+SETTINGS,设置管理
+SOUND,声音
+SCREEN,屏幕
+LANGUAGE,语言
+DATE/TIME,日期/时间
+FUNCTIONS,功能启停
+PASSWORDS,用户密码
+ABOUT,关于
